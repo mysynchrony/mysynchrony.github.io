@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "mysynchrony.github.io",
+  "Id": "f9f09255-dd42-4463-9e52-7a43e504d40b"
+}
